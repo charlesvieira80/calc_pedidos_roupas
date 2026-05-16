@@ -1,0 +1,8 @@
+{
+  "name": "Calculadora de Pedidos de Roupas",
+  "description": "App para calcular valor de pedidos de roupas por categoria e tamanho, com opção de salvar orçamentos no dispositivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
